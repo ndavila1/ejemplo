@@ -16,6 +16,10 @@ public class Repositorio {
      */
     public static void main(String[] args) {
         System.out.println("GAFAS ES UN MARICA");
+        System.out.println("GAFAS ES UN MARICA");
+        System.out.println("GAFAS ES UN MARICA");
+        System.out.println("GAFAS ES UN MARICA");
+        
     }
     
 }
