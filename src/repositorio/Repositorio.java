@@ -25,6 +25,10 @@ public class Repositorio {
         System.out.println("GAFAS ES UN MARICA");
         System.out.println("GAFAS ES UN MARICA");
         System.out.println("GAFAS ES UN MARICA");
+        System.out.println("GAFAS ES UN MARICA que lo mama");
+        System.out.println("GAFAS ES UN MARICA");
+        System.out.println("GAFAS ES UN MARICA");
+        System.out.println("GAFAS ES UN MARICA");
         
     }
     
